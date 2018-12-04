@@ -7,7 +7,7 @@
 
 ## Features
 - Registro de usuario tanto local como usando las redes sociales (Google y Facebook principalmente)
-- Sistema de preserva mediante token.
+- Sistema de pre-reserva mediante token.
     . una vez q se confirme la reserva por parte del usuario se le generara un token
       con validez por X tiempo. durante ese periodo de tiempo se le guardara la reserva
     . un proximo paso que no debe demorar mucho es soportar en el portal el pago online
