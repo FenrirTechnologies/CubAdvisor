@@ -1,0 +1,25 @@
+{
+    "mockup": {
+        "controls": {
+            "control": [
+                {
+                    "ID": "0",
+                    "measuredH": "430",
+                    "measuredW": "1180",
+                    "properties": {
+                        "text": "Home Page\n- Login\n--Forgot password\n- Register\n- Profile\n- Home\n- Packages\n-- Package 1\n-- Package 2\n---  Book Now\n- About Us\n- Contact\n- Blog\n-- Post 1\n-- Post 2"
+                    },
+                    "typeID": "SiteMap",
+                    "x": "132",
+                    "y": "65",
+                    "zOrder": "0"
+                }
+            ]
+        },
+        "measuredH": "495",
+        "measuredW": "1312",
+        "mockupH": "430",
+        "mockupW": "1180",
+        "version": "1.0"
+    }
+}
