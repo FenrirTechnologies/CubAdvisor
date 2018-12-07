@@ -100,12 +100,26 @@ About us Page
   . info de la agencia
 
 
-------
-Servicios de backend
+## Servicios de backend
 
 ---------------------------
-DUDAS
+## Next Steps (Sacar features de manera progresiva tal q los clientes vean un sitio en evolucion)
 
-- Los tours tienen predefinidas todas las opciones o se permite customizar el hotel y otros detalles
+- Mejorar la experiencia orientada a los users.
+  * dar vida al perfil de cada usuario permitiendo definir informacion publica:
+    . fecha de registro del usuario
+    . fotos de los viajes
+    . paquetes contratados anteriormente
+    . reviews de otros paquetes
+    . mapa global con los lugares visitados
+    . permitir seguidores
+    . ganar bages en base a achievements pre definidos
+
+- Eventos para los followers:
+  * publicar review
+  * reserva para viaje
+  * foto publicada
+
+## DUDAS
 - Es posible reservar casas, hoteles, etc de manera individual o solo mendiante los tours q oferta la
   agencia

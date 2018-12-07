@@ -1,0 +1,397 @@
+{
+    "mockup": {
+        "controls": {
+            "control": [
+                {
+                    "ID": "0",
+                    "h": "1173",
+                    "measuredH": "400",
+                    "measuredW": "450",
+                    "properties": {
+                        "value": "86",
+                        "verticalScrollbar": "false"
+                    },
+                    "typeID": "BrowserWindow",
+                    "w": "1500",
+                    "x": "1007",
+                    "y": "95",
+                    "zOrder": "0"
+                },
+                {
+                    "ID": "2",
+                    "measuredH": "45",
+                    "measuredW": "230",
+                    "properties": {
+                        "text": "Account Info"
+                    },
+                    "typeID": "Title",
+                    "w": "238",
+                    "x": "1032",
+                    "y": "212",
+                    "zOrder": "1"
+                },
+                {
+                    "ID": "5",
+                    "measuredH": "10",
+                    "measuredW": "100",
+                    "typeID": "HRule",
+                    "w": "1468",
+                    "x": "1016",
+                    "y": "273",
+                    "zOrder": "2"
+                },
+                {
+                    "ID": "11",
+                    "h": "30",
+                    "measuredH": "70",
+                    "measuredW": "100",
+                    "properties": {
+                        "borderStyle": "square"
+                    },
+                    "typeID": "Canvas",
+                    "w": "400",
+                    "x": "1244",
+                    "y": "513",
+                    "zOrder": "3"
+                },
+                {
+                    "ID": "12",
+                    "measuredH": "24",
+                    "measuredW": "84",
+                    "properties": {
+                        "bold": "true",
+                        "size": "16",
+                        "text": "First Name"
+                    },
+                    "typeID": "Label",
+                    "w": "113",
+                    "x": "1244",
+                    "y": "478",
+                    "zOrder": "4"
+                },
+                {
+                    "ID": "13",
+                    "h": "30",
+                    "measuredH": "70",
+                    "measuredW": "100",
+                    "properties": {
+                        "borderStyle": "square"
+                    },
+                    "typeID": "Canvas",
+                    "w": "400",
+                    "x": "1244",
+                    "y": "649",
+                    "zOrder": "5"
+                },
+                {
+                    "ID": "14",
+                    "measuredH": "24",
+                    "measuredW": "79",
+                    "properties": {
+                        "bold": "true",
+                        "size": "16",
+                        "text": "Username"
+                    },
+                    "typeID": "Label",
+                    "w": "113",
+                    "x": "1244",
+                    "y": "614",
+                    "zOrder": "6"
+                },
+                {
+                    "ID": "15",
+                    "measuredH": "128",
+                    "measuredW": "128",
+                    "properties": {
+                        "icon": {
+                            "ID": "user-circle-o",
+                            "size": "xxlarge"
+                        }
+                    },
+                    "typeID": "Icon",
+                    "x": "1693",
+                    "y": "312",
+                    "zOrder": "7"
+                },
+                {
+                    "ID": "16",
+                    "h": "30",
+                    "measuredH": "70",
+                    "measuredW": "100",
+                    "properties": {
+                        "borderStyle": "square"
+                    },
+                    "typeID": "Canvas",
+                    "w": "400",
+                    "x": "1858",
+                    "y": "513",
+                    "zOrder": "8"
+                },
+                {
+                    "ID": "17",
+                    "measuredH": "24",
+                    "measuredW": "84",
+                    "properties": {
+                        "bold": "true",
+                        "size": "16",
+                        "text": "Last Name"
+                    },
+                    "typeID": "Label",
+                    "w": "113",
+                    "x": "1858",
+                    "y": "478",
+                    "zOrder": "9"
+                },
+                {
+                    "ID": "18",
+                    "h": "30",
+                    "measuredH": "70",
+                    "measuredW": "100",
+                    "properties": {
+                        "borderStyle": "square"
+                    },
+                    "typeID": "Canvas",
+                    "w": "400",
+                    "x": "1858",
+                    "y": "649",
+                    "zOrder": "10"
+                },
+                {
+                    "ID": "19",
+                    "measuredH": "24",
+                    "measuredW": "42",
+                    "properties": {
+                        "bold": "true",
+                        "size": "16",
+                        "text": "Email"
+                    },
+                    "typeID": "Label",
+                    "w": "113",
+                    "x": "1858",
+                    "y": "614",
+                    "zOrder": "11"
+                },
+                {
+                    "ID": "29",
+                    "measuredH": "24",
+                    "measuredW": "100",
+                    "properties": {
+                        "bold": "true",
+                        "size": "16",
+                        "text": "Date of Birth"
+                    },
+                    "typeID": "Label",
+                    "w": "113",
+                    "x": "1244",
+                    "y": "868",
+                    "zOrder": "12"
+                },
+                {
+                    "ID": "31",
+                    "measuredH": "24",
+                    "measuredW": "61",
+                    "properties": {
+                        "bold": "true",
+                        "size": "16",
+                        "text": "Country"
+                    },
+                    "typeID": "Label",
+                    "w": "113",
+                    "x": "1858",
+                    "y": "868",
+                    "zOrder": "13"
+                },
+                {
+                    "ID": "32",
+                    "measuredH": "24",
+                    "measuredW": "90",
+                    "typeID": "DateChooser",
+                    "x": "1373",
+                    "y": "868",
+                    "zOrder": "14"
+                },
+                {
+                    "ID": "33",
+                    "measuredH": "24",
+                    "measuredW": "71",
+                    "properties": {
+                        "text": " Portugal"
+                    },
+                    "typeID": "ComboBox",
+                    "w": "216",
+                    "x": "1950",
+                    "y": "868",
+                    "zOrder": "15"
+                },
+                {
+                    "ID": "34",
+                    "h": "30",
+                    "measuredH": "70",
+                    "measuredW": "100",
+                    "properties": {
+                        "borderStyle": "square"
+                    },
+                    "typeID": "Canvas",
+                    "w": "400",
+                    "x": "1858",
+                    "y": "794",
+                    "zOrder": "16"
+                },
+                {
+                    "ID": "35",
+                    "measuredH": "24",
+                    "measuredW": "113",
+                    "properties": {
+                        "bold": "true",
+                        "size": "16",
+                        "text": "Phone Number"
+                    },
+                    "typeID": "Label",
+                    "w": "113",
+                    "x": "1858",
+                    "y": "759",
+                    "zOrder": "17"
+                },
+                {
+                    "ID": "36",
+                    "h": "30",
+                    "measuredH": "70",
+                    "measuredW": "100",
+                    "properties": {
+                        "borderStyle": "square"
+                    },
+                    "typeID": "Canvas",
+                    "w": "400",
+                    "x": "1238",
+                    "y": "794",
+                    "zOrder": "18"
+                },
+                {
+                    "ID": "37",
+                    "measuredH": "24",
+                    "measuredW": "113",
+                    "properties": {
+                        "bold": "true",
+                        "size": "16",
+                        "text": "Phone Number"
+                    },
+                    "typeID": "Label",
+                    "w": "113",
+                    "x": "1238",
+                    "y": "759",
+                    "zOrder": "19"
+                },
+                {
+                    "ID": "38",
+                    "measuredH": "24",
+                    "measuredW": "58",
+                    "properties": {
+                        "bold": "true",
+                        "size": "16",
+                        "text": "Gender"
+                    },
+                    "typeID": "Label",
+                    "w": "113",
+                    "x": "1244",
+                    "y": "962",
+                    "zOrder": "20"
+                },
+                {
+                    "ID": "39",
+                    "measuredH": "24",
+                    "measuredW": "63",
+                    "properties": {
+                        "text": "Female"
+                    },
+                    "typeID": "ComboBox",
+                    "w": "216",
+                    "x": "1336",
+                    "y": "962",
+                    "zOrder": "21"
+                },
+                {
+                    "ID": "40",
+                    "measuredH": "24",
+                    "measuredW": "74",
+                    "properties": {
+                        "bold": "true",
+                        "size": "16",
+                        "text": "Language"
+                    },
+                    "typeID": "Label",
+                    "w": "113",
+                    "x": "1858",
+                    "y": "962",
+                    "zOrder": "22"
+                },
+                {
+                    "ID": "41",
+                    "measuredH": "24",
+                    "measuredW": "63",
+                    "properties": {
+                        "text": "English"
+                    },
+                    "typeID": "ComboBox",
+                    "w": "216",
+                    "x": "1950",
+                    "y": "962",
+                    "zOrder": "23"
+                },
+                {
+                    "ID": "43",
+                    "h": "49",
+                    "measuredH": "32",
+                    "measuredW": "91",
+                    "properties": {
+                        "icon": {
+                            "ID": "floppy-o",
+                            "size": "medium"
+                        },
+                        "size": "14",
+                        "text": "Save"
+                    },
+                    "typeID": "Button",
+                    "w": "117",
+                    "x": "1699",
+                    "y": "1114",
+                    "zOrder": "24"
+                },
+                {
+                    "ID": "45",
+                    "h": "36",
+                    "measuredH": "80",
+                    "measuredW": "275",
+                    "properties": {
+                        "size": "16",
+                        "text": "[Reset Password]"
+                    },
+                    "typeID": "Paragraph",
+                    "w": "127",
+                    "x": "1238",
+                    "y": "1068",
+                    "zOrder": "25"
+                },
+                {
+                    "ID": "46",
+                    "h": "36",
+                    "measuredH": "80",
+                    "measuredW": "275",
+                    "properties": {
+                        "size": "16",
+                        "text": "[Update Avatar]"
+                    },
+                    "typeID": "Paragraph",
+                    "w": "127",
+                    "x": "1699",
+                    "y": "450",
+                    "zOrder": "26"
+                }
+            ]
+        },
+        "measuredH": "1268",
+        "measuredW": "2507",
+        "mockupH": "1173",
+        "mockupW": "1500",
+        "version": "1.0"
+    }
+}
