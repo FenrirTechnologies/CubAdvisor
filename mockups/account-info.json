@@ -3,7 +3,28 @@
         "controls": {
             "control": [
                 {
-                    "ID": "0",
+                    "ID": "47",
+                    "measuredH": "79",
+                    "measuredW": "71",
+                    "properties": {
+                        "icon": {
+                            "ID": "user-circle",
+                            "size": "medium"
+                        },
+                        "size": "12",
+                        "state": "focused",
+                        "text": " \nsettings\nsign out\n \n ",
+                        "value": "0",
+                        "verticalScrollbar": "false"
+                    },
+                    "typeID": "ComboBox",
+                    "w": "99",
+                    "x": "594",
+                    "y": "378",
+                    "zOrder": "0"
+                },
+                {
+                    "ID": "49",
                     "h": "1173",
                     "measuredH": "400",
                     "measuredW": "450",
@@ -13,12 +34,12 @@
                     },
                     "typeID": "BrowserWindow",
                     "w": "1500",
-                    "x": "1007",
-                    "y": "95",
-                    "zOrder": "0"
+                    "x": "215",
+                    "y": "255",
+                    "zOrder": "1"
                 },
                 {
-                    "ID": "2",
+                    "ID": "50",
                     "measuredH": "45",
                     "measuredW": "230",
                     "properties": {
@@ -26,22 +47,22 @@
                     },
                     "typeID": "Title",
                     "w": "238",
-                    "x": "1032",
-                    "y": "212",
-                    "zOrder": "1"
+                    "x": "240",
+                    "y": "372",
+                    "zOrder": "2"
                 },
                 {
-                    "ID": "5",
+                    "ID": "51",
                     "measuredH": "10",
                     "measuredW": "100",
                     "typeID": "HRule",
                     "w": "1468",
-                    "x": "1016",
-                    "y": "273",
-                    "zOrder": "2"
+                    "x": "224",
+                    "y": "433",
+                    "zOrder": "3"
                 },
                 {
-                    "ID": "11",
+                    "ID": "52",
                     "h": "30",
                     "measuredH": "70",
                     "measuredW": "100",
@@ -50,12 +71,12 @@
                     },
                     "typeID": "Canvas",
                     "w": "400",
-                    "x": "1244",
-                    "y": "513",
-                    "zOrder": "3"
+                    "x": "452",
+                    "y": "673",
+                    "zOrder": "4"
                 },
                 {
-                    "ID": "12",
+                    "ID": "53",
                     "measuredH": "24",
                     "measuredW": "84",
                     "properties": {
@@ -65,12 +86,12 @@
                     },
                     "typeID": "Label",
                     "w": "113",
-                    "x": "1244",
-                    "y": "478",
-                    "zOrder": "4"
+                    "x": "452",
+                    "y": "638",
+                    "zOrder": "5"
                 },
                 {
-                    "ID": "13",
+                    "ID": "54",
                     "h": "30",
                     "measuredH": "70",
                     "measuredW": "100",
@@ -79,12 +100,12 @@
                     },
                     "typeID": "Canvas",
                     "w": "400",
-                    "x": "1244",
-                    "y": "649",
-                    "zOrder": "5"
+                    "x": "452",
+                    "y": "809",
+                    "zOrder": "6"
                 },
                 {
-                    "ID": "14",
+                    "ID": "55",
                     "measuredH": "24",
                     "measuredW": "79",
                     "properties": {
@@ -94,12 +115,12 @@
                     },
                     "typeID": "Label",
                     "w": "113",
-                    "x": "1244",
-                    "y": "614",
-                    "zOrder": "6"
+                    "x": "452",
+                    "y": "774",
+                    "zOrder": "7"
                 },
                 {
-                    "ID": "15",
+                    "ID": "56",
                     "measuredH": "128",
                     "measuredW": "128",
                     "properties": {
@@ -109,12 +130,12 @@
                         }
                     },
                     "typeID": "Icon",
-                    "x": "1693",
-                    "y": "312",
-                    "zOrder": "7"
+                    "x": "901",
+                    "y": "472",
+                    "zOrder": "8"
                 },
                 {
-                    "ID": "16",
+                    "ID": "57",
                     "h": "30",
                     "measuredH": "70",
                     "measuredW": "100",
@@ -123,12 +144,12 @@
                     },
                     "typeID": "Canvas",
                     "w": "400",
-                    "x": "1858",
-                    "y": "513",
-                    "zOrder": "8"
+                    "x": "1066",
+                    "y": "673",
+                    "zOrder": "9"
                 },
                 {
-                    "ID": "17",
+                    "ID": "58",
                     "measuredH": "24",
                     "measuredW": "84",
                     "properties": {
@@ -138,12 +159,12 @@
                     },
                     "typeID": "Label",
                     "w": "113",
-                    "x": "1858",
-                    "y": "478",
-                    "zOrder": "9"
+                    "x": "1066",
+                    "y": "638",
+                    "zOrder": "10"
                 },
                 {
-                    "ID": "18",
+                    "ID": "59",
                     "h": "30",
                     "measuredH": "70",
                     "measuredW": "100",
@@ -152,12 +173,12 @@
                     },
                     "typeID": "Canvas",
                     "w": "400",
-                    "x": "1858",
-                    "y": "649",
-                    "zOrder": "10"
+                    "x": "1066",
+                    "y": "809",
+                    "zOrder": "11"
                 },
                 {
-                    "ID": "19",
+                    "ID": "60",
                     "measuredH": "24",
                     "measuredW": "42",
                     "properties": {
@@ -167,12 +188,12 @@
                     },
                     "typeID": "Label",
                     "w": "113",
-                    "x": "1858",
-                    "y": "614",
-                    "zOrder": "11"
+                    "x": "1066",
+                    "y": "774",
+                    "zOrder": "12"
                 },
                 {
-                    "ID": "29",
+                    "ID": "61",
                     "measuredH": "24",
                     "measuredW": "100",
                     "properties": {
@@ -182,12 +203,12 @@
                     },
                     "typeID": "Label",
                     "w": "113",
-                    "x": "1244",
-                    "y": "868",
-                    "zOrder": "12"
+                    "x": "452",
+                    "y": "1028",
+                    "zOrder": "13"
                 },
                 {
-                    "ID": "31",
+                    "ID": "62",
                     "measuredH": "24",
                     "measuredW": "61",
                     "properties": {
@@ -197,21 +218,21 @@
                     },
                     "typeID": "Label",
                     "w": "113",
-                    "x": "1858",
-                    "y": "868",
-                    "zOrder": "13"
-                },
-                {
-                    "ID": "32",
-                    "measuredH": "24",
-                    "measuredW": "90",
-                    "typeID": "DateChooser",
-                    "x": "1373",
-                    "y": "868",
+                    "x": "1066",
+                    "y": "1028",
                     "zOrder": "14"
                 },
                 {
-                    "ID": "33",
+                    "ID": "63",
+                    "measuredH": "24",
+                    "measuredW": "90",
+                    "typeID": "DateChooser",
+                    "x": "581",
+                    "y": "1028",
+                    "zOrder": "15"
+                },
+                {
+                    "ID": "64",
                     "measuredH": "24",
                     "measuredW": "71",
                     "properties": {
@@ -219,41 +240,12 @@
                     },
                     "typeID": "ComboBox",
                     "w": "216",
-                    "x": "1950",
-                    "y": "868",
-                    "zOrder": "15"
-                },
-                {
-                    "ID": "34",
-                    "h": "30",
-                    "measuredH": "70",
-                    "measuredW": "100",
-                    "properties": {
-                        "borderStyle": "square"
-                    },
-                    "typeID": "Canvas",
-                    "w": "400",
-                    "x": "1858",
-                    "y": "794",
+                    "x": "1158",
+                    "y": "1028",
                     "zOrder": "16"
                 },
                 {
-                    "ID": "35",
-                    "measuredH": "24",
-                    "measuredW": "113",
-                    "properties": {
-                        "bold": "true",
-                        "size": "16",
-                        "text": "Phone Number"
-                    },
-                    "typeID": "Label",
-                    "w": "113",
-                    "x": "1858",
-                    "y": "759",
-                    "zOrder": "17"
-                },
-                {
-                    "ID": "36",
+                    "ID": "65",
                     "h": "30",
                     "measuredH": "70",
                     "measuredW": "100",
@@ -262,12 +254,12 @@
                     },
                     "typeID": "Canvas",
                     "w": "400",
-                    "x": "1238",
-                    "y": "794",
-                    "zOrder": "18"
+                    "x": "1066",
+                    "y": "954",
+                    "zOrder": "17"
                 },
                 {
-                    "ID": "37",
+                    "ID": "66",
                     "measuredH": "24",
                     "measuredW": "113",
                     "properties": {
@@ -277,12 +269,41 @@
                     },
                     "typeID": "Label",
                     "w": "113",
-                    "x": "1238",
-                    "y": "759",
+                    "x": "1066",
+                    "y": "919",
+                    "zOrder": "18"
+                },
+                {
+                    "ID": "67",
+                    "h": "30",
+                    "measuredH": "70",
+                    "measuredW": "100",
+                    "properties": {
+                        "borderStyle": "square"
+                    },
+                    "typeID": "Canvas",
+                    "w": "400",
+                    "x": "446",
+                    "y": "954",
                     "zOrder": "19"
                 },
                 {
-                    "ID": "38",
+                    "ID": "68",
+                    "measuredH": "24",
+                    "measuredW": "113",
+                    "properties": {
+                        "bold": "true",
+                        "size": "16",
+                        "text": "Phone Number"
+                    },
+                    "typeID": "Label",
+                    "w": "113",
+                    "x": "446",
+                    "y": "919",
+                    "zOrder": "20"
+                },
+                {
+                    "ID": "69",
                     "measuredH": "24",
                     "measuredW": "58",
                     "properties": {
@@ -292,12 +313,12 @@
                     },
                     "typeID": "Label",
                     "w": "113",
-                    "x": "1244",
-                    "y": "962",
-                    "zOrder": "20"
+                    "x": "452",
+                    "y": "1122",
+                    "zOrder": "21"
                 },
                 {
-                    "ID": "39",
+                    "ID": "70",
                     "measuredH": "24",
                     "measuredW": "63",
                     "properties": {
@@ -305,12 +326,12 @@
                     },
                     "typeID": "ComboBox",
                     "w": "216",
-                    "x": "1336",
-                    "y": "962",
-                    "zOrder": "21"
+                    "x": "544",
+                    "y": "1122",
+                    "zOrder": "22"
                 },
                 {
-                    "ID": "40",
+                    "ID": "71",
                     "measuredH": "24",
                     "measuredW": "74",
                     "properties": {
@@ -320,12 +341,12 @@
                     },
                     "typeID": "Label",
                     "w": "113",
-                    "x": "1858",
-                    "y": "962",
-                    "zOrder": "22"
+                    "x": "1066",
+                    "y": "1122",
+                    "zOrder": "23"
                 },
                 {
-                    "ID": "41",
+                    "ID": "72",
                     "measuredH": "24",
                     "measuredW": "63",
                     "properties": {
@@ -333,12 +354,12 @@
                     },
                     "typeID": "ComboBox",
                     "w": "216",
-                    "x": "1950",
-                    "y": "962",
-                    "zOrder": "23"
+                    "x": "1158",
+                    "y": "1122",
+                    "zOrder": "24"
                 },
                 {
-                    "ID": "43",
+                    "ID": "73",
                     "h": "49",
                     "measuredH": "32",
                     "measuredW": "91",
@@ -352,12 +373,12 @@
                     },
                     "typeID": "Button",
                     "w": "117",
-                    "x": "1699",
-                    "y": "1114",
-                    "zOrder": "24"
+                    "x": "907",
+                    "y": "1274",
+                    "zOrder": "25"
                 },
                 {
-                    "ID": "45",
+                    "ID": "74",
                     "h": "36",
                     "measuredH": "80",
                     "measuredW": "275",
@@ -367,12 +388,12 @@
                     },
                     "typeID": "Paragraph",
                     "w": "127",
-                    "x": "1238",
-                    "y": "1068",
-                    "zOrder": "25"
+                    "x": "446",
+                    "y": "1191",
+                    "zOrder": "26"
                 },
                 {
-                    "ID": "46",
+                    "ID": "75",
                     "h": "36",
                     "measuredH": "80",
                     "measuredW": "275",
@@ -382,14 +403,30 @@
                     },
                     "typeID": "Paragraph",
                     "w": "127",
-                    "x": "1699",
-                    "y": "450",
-                    "zOrder": "26"
+                    "x": "907",
+                    "y": "610",
+                    "zOrder": "27"
+                },
+                {
+                    "ID": "76",
+                    "h": "36",
+                    "measuredH": "25",
+                    "measuredW": "564",
+                    "properties": {
+                        "size": "16",
+                        "state": "selected",
+                        "text": "Choose if you want to receive notifications to get latest updates and offers."
+                    },
+                    "typeID": "CheckBox",
+                    "w": "570",
+                    "x": "1066",
+                    "y": "1182",
+                    "zOrder": "28"
                 }
             ]
         },
-        "measuredH": "1268",
-        "measuredW": "2507",
+        "measuredH": "1428",
+        "measuredW": "1715",
         "mockupH": "1173",
         "mockupW": "1500",
         "version": "1.0"
