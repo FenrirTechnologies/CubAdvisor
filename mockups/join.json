@@ -3,7 +3,7 @@
         "controls": {
             "control": [
                 {
-                    "ID": "50",
+                    "ID": "81",
                     "h": "553",
                     "measuredH": "400",
                     "measuredW": "450",
@@ -26,7 +26,7 @@
                     "zOrder": "0"
                 },
                 {
-                    "ID": "53",
+                    "ID": "82",
                     "measuredH": "32",
                     "measuredW": "227",
                     "properties": {
@@ -35,93 +35,13 @@
                         "text": "Join now – it’s free!"
                     },
                     "typeID": "Label",
-                    "w": "234",
+                    "w": "270",
                     "x": "305",
                     "y": "320",
                     "zOrder": "1"
                 },
                 {
-                    "ID": "60",
-                    "h": "38",
-                    "measuredH": "27",
-                    "measuredW": "55",
-                    "properties": {
-                        "bold": "true",
-                        "color": "3700253",
-                        "size": "16",
-                        "text": "Join"
-                    },
-                    "typeID": "Button",
-                    "w": "400",
-                    "x": "305",
-                    "y": "541",
-                    "zOrder": "4"
-                },
-                {
-                    "ID": "62",
-                    "measuredH": "64",
-                    "measuredW": "74",
-                    "properties": {
-                        "icon": {
-                            "ID": "paper-plane",
-                            "size": "large"
-                        },
-                        "size": "14",
-                        "text": "CubAdvisor"
-                    },
-                    "typeID": "IconLabel",
-                    "x": "610",
-                    "y": "288",
-                    "zOrder": "5"
-                },
-                {
-                    "ID": "70",
-                    "children": {
-                        "controls": {
-                            "control": [
-                                {
-                                    "ID": "0",
-                                    "h": "30",
-                                    "measuredH": "70",
-                                    "measuredW": "100",
-                                    "properties": {
-                                        "borderStyle": "square"
-                                    },
-                                    "typeID": "Canvas",
-                                    "w": "400",
-                                    "x": "0",
-                                    "y": "35",
-                                    "zOrder": "0"
-                                },
-                                {
-                                    "ID": "1",
-                                    "measuredH": "24",
-                                    "measuredW": "107",
-                                    "properties": {
-                                        "bold": "true",
-                                        "size": "16",
-                                        "text": "Email address"
-                                    },
-                                    "typeID": "Label",
-                                    "w": "113",
-                                    "x": "0",
-                                    "y": "0",
-                                    "zOrder": "1"
-                                }
-                            ]
-                        }
-                    },
-                    "h": "65",
-                    "measuredH": "65",
-                    "measuredW": "400",
-                    "typeID": "__group__",
-                    "w": "400",
-                    "x": "305",
-                    "y": "388",
-                    "zOrder": "3"
-                },
-                {
-                    "ID": "71",
+                    "ID": "83",
                     "children": {
                         "controls": {
                             "control": [
@@ -167,7 +87,87 @@
                     "zOrder": "2"
                 },
                 {
-                    "ID": "76",
+                    "ID": "84",
+                    "children": {
+                        "controls": {
+                            "control": [
+                                {
+                                    "ID": "0",
+                                    "h": "30",
+                                    "measuredH": "70",
+                                    "measuredW": "100",
+                                    "properties": {
+                                        "borderStyle": "square"
+                                    },
+                                    "typeID": "Canvas",
+                                    "w": "400",
+                                    "x": "0",
+                                    "y": "35",
+                                    "zOrder": "0"
+                                },
+                                {
+                                    "ID": "1",
+                                    "measuredH": "24",
+                                    "measuredW": "107",
+                                    "properties": {
+                                        "bold": "true",
+                                        "size": "16",
+                                        "text": "Email address"
+                                    },
+                                    "typeID": "Label",
+                                    "w": "113",
+                                    "x": "0",
+                                    "y": "0",
+                                    "zOrder": "1"
+                                }
+                            ]
+                        }
+                    },
+                    "h": "65",
+                    "measuredH": "65",
+                    "measuredW": "400",
+                    "typeID": "__group__",
+                    "w": "400",
+                    "x": "305",
+                    "y": "388",
+                    "zOrder": "3"
+                },
+                {
+                    "ID": "85",
+                    "h": "38",
+                    "measuredH": "27",
+                    "measuredW": "55",
+                    "properties": {
+                        "bold": "true",
+                        "color": "3700253",
+                        "size": "16",
+                        "text": "Join"
+                    },
+                    "typeID": "Button",
+                    "w": "400",
+                    "x": "305",
+                    "y": "541",
+                    "zOrder": "4"
+                },
+                {
+                    "ID": "86",
+                    "measuredH": "64",
+                    "measuredW": "74",
+                    "properties": {
+                        "icon": {
+                            "ID": "paper-plane",
+                            "size": "large"
+                        },
+                        "size": "14",
+                        "text": "CubAdvisor"
+                    },
+                    "typeID": "IconLabel",
+                    "x": "610",
+                    "y": "288",
+                    "zOrder": "5"
+                },
+                {
+                    "ID": "87",
                     "children": {
                         "controls": {
                             "control": [
@@ -199,18 +199,14 @@
                     "zOrder": "6"
                 },
                 {
-                    "ID": "84",
-                    "h": "41",
+                    "ID": "88",
+                    "h": "47",
                     "measuredH": "27",
-                    "measuredW": "107",
+                    "measuredW": "24",
                     "properties": {
                         "bold": "true",
                         "color": "2848996",
-                        "icon": {
-                            "ID": "facebook",
-                            "size": "small"
-                        },
-                        "text": "JOIN WITH"
+                        "text": ""
                     },
                     "typeID": "Button",
                     "w": "200",
@@ -219,27 +215,24 @@
                     "zOrder": "7"
                 },
                 {
-                    "ID": "85",
-                    "h": "41",
+                    "ID": "89",
+                    "h": "47",
                     "measuredH": "27",
-                    "measuredW": "107",
+                    "measuredW": "24",
                     "properties": {
+                        "align": "left",
                         "bold": "true",
                         "color": "13369344",
-                        "icon": {
-                            "ID": "google",
-                            "size": "small"
-                        },
-                        "text": "JOIN WITH"
+                        "text": ""
                     },
                     "typeID": "Button",
-                    "w": "200",
+                    "w": "194",
                     "x": "511",
                     "y": "613",
                     "zOrder": "8"
                 },
                 {
-                    "ID": "86",
+                    "ID": "90",
                     "h": "24",
                     "measuredH": "80",
                     "measuredW": "275",
@@ -254,7 +247,7 @@
                     "zOrder": "9"
                 },
                 {
-                    "ID": "89",
+                    "ID": "91",
                     "children": {
                         "controls": {
                             "control": [
@@ -284,6 +277,70 @@
                     "x": "364",
                     "y": "678",
                     "zOrder": "10"
+                },
+                {
+                    "ID": "92",
+                    "h": "24",
+                    "measuredH": "80",
+                    "measuredW": "275",
+                    "properties": {
+                        "color": "16777215",
+                        "size": "16",
+                        "text": "JOIN WITH"
+                    },
+                    "typeID": "Paragraph",
+                    "w": "94",
+                    "x": "331",
+                    "y": "624",
+                    "zOrder": "11"
+                },
+                {
+                    "ID": "93",
+                    "h": "25",
+                    "measuredH": "80",
+                    "measuredW": "275",
+                    "properties": {
+                        "color": "16777215",
+                        "size": "16",
+                        "text": "JOIN WITH"
+                    },
+                    "typeID": "Paragraph",
+                    "w": "94",
+                    "x": "535",
+                    "y": "624",
+                    "zOrder": "12"
+                },
+                {
+                    "ID": "95",
+                    "measuredH": "32",
+                    "measuredW": "32",
+                    "properties": {
+                        "color": "16777215",
+                        "icon": {
+                            "ID": "facebook",
+                            "size": "medium"
+                        }
+                    },
+                    "typeID": "Icon",
+                    "x": "441",
+                    "y": "620",
+                    "zOrder": "13"
+                },
+                {
+                    "ID": "96",
+                    "measuredH": "32",
+                    "measuredW": "32",
+                    "properties": {
+                        "color": "16777215",
+                        "icon": {
+                            "ID": "google",
+                            "size": "medium"
+                        }
+                    },
+                    "typeID": "Icon",
+                    "x": "645",
+                    "y": "620",
+                    "zOrder": "14"
                 }
             ]
         },

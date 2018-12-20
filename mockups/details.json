@@ -1,0 +1,1485 @@
+{
+  "mockup": {
+    "controls": {
+      "control": [
+        {
+          "ID": "46",
+          "h": "2721",
+          "measuredH": "400",
+          "measuredW": "450",
+          "properties": { "text": "Single Offer\nhttp://" },
+          "typeID": "BrowserWindow",
+          "w": "1558",
+          "x": "682",
+          "y": "12",
+          "zOrder": "0"
+        },
+        {
+          "ID": "47",
+          "h": "483",
+          "measuredH": "600",
+          "measuredW": "800",
+          "properties": {
+            "src": {
+              "Anchor": -1,
+              "ID": "D12C066E-1130-C484-B7DD-C93563938CAD"
+            }
+          },
+          "typeID": "Image",
+          "w": "1558",
+          "x": "682",
+          "y": "226",
+          "zOrder": "1"
+        },
+        {
+          "ID": "48",
+          "measuredH": "63",
+          "measuredW": "534",
+          "properties": {
+            "color": "16777215",
+            "size": "60",
+            "text": "WALK THE HAVANA"
+          },
+          "typeID": "SubTitle",
+          "w": "542",
+          "x": "1228",
+          "y": "423",
+          "zOrder": "2"
+        },
+        {
+          "ID": "49",
+          "children": {
+            "controls": {
+              "control": [
+                {
+                  "ID": "0",
+                  "measuredH": "31",
+                  "measuredW": "250",
+                  "properties": {
+                    "size": "28",
+                    "text": "WALK THE HAVANA"
+                  },
+                  "typeID": "SubTitle",
+                  "w": "258",
+                  "x": "0",
+                  "y": "0",
+                  "zOrder": "0"
+                },
+                {
+                  "ID": "1",
+                  "children": {
+                    "controls": {
+                      "control": [
+                        {
+                          "ID": "0",
+                          "measuredH": "24",
+                          "measuredW": "24",
+                          "properties": {
+                            "icon": {
+                              "ID": "star",
+                              "size": "small"
+                            }
+                          },
+                          "typeID": "Icon",
+                          "x": "0",
+                          "y": "0",
+                          "zOrder": "0"
+                        },
+                        {
+                          "ID": "1",
+                          "measuredH": "24",
+                          "measuredW": "24",
+                          "properties": {
+                            "icon": {
+                              "ID": "star",
+                              "size": "small"
+                            }
+                          },
+                          "typeID": "Icon",
+                          "x": "48",
+                          "y": "0",
+                          "zOrder": "1"
+                        },
+                        {
+                          "ID": "2",
+                          "measuredH": "24",
+                          "measuredW": "24",
+                          "properties": {
+                            "icon": {
+                              "ID": "star",
+                              "size": "small"
+                            }
+                          },
+                          "typeID": "Icon",
+                          "x": "24",
+                          "y": "0",
+                          "zOrder": "2"
+                        },
+                        {
+                          "ID": "3",
+                          "measuredH": "24",
+                          "measuredW": "24",
+                          "properties": {
+                            "icon": {
+                              "ID": "star",
+                              "size": "small"
+                            }
+                          },
+                          "typeID": "Icon",
+                          "x": "72",
+                          "y": "0",
+                          "zOrder": "3"
+                        },
+                        {
+                          "ID": "4",
+                          "measuredH": "24",
+                          "measuredW": "24",
+                          "properties": {
+                            "icon": {
+                              "ID": "star-half-o",
+                              "size": "small"
+                            }
+                          },
+                          "typeID": "Icon",
+                          "x": "96",
+                          "y": "0",
+                          "zOrder": "4"
+                        }
+                      ]
+                    }
+                  },
+                  "h": "24",
+                  "measuredH": "24",
+                  "measuredW": "120",
+                  "typeID": "__group__",
+                  "w": "120",
+                  "x": "42",
+                  "y": "31",
+                  "zOrder": "1"
+                }
+              ]
+            }
+          },
+          "h": "55",
+          "measuredH": "55",
+          "measuredW": "258",
+          "typeID": "__group__",
+          "w": "258",
+          "x": "808",
+          "y": "748",
+          "zOrder": "3"
+        },
+        {
+          "ID": "50",
+          "h": "36",
+          "measuredH": "27",
+          "measuredW": "88",
+          "properties": {
+            "color": "6989903",
+            "text": "BOOK NOW ..."
+          },
+          "typeID": "Button",
+          "w": "113",
+          "x": "2002",
+          "y": "745",
+          "zOrder": "4"
+        },
+        {
+          "ID": "51",
+          "children": {
+            "controls": {
+              "control": [
+                {
+                  "ID": "0",
+                  "measuredH": "48",
+                  "measuredW": "48",
+                  "properties": {
+                    "icon": {
+                      "ID": "bicycle",
+                      "size": "large"
+                    }
+                  },
+                  "typeID": "Icon",
+                  "x": "53",
+                  "y": "0",
+                  "zOrder": "0"
+                },
+                {
+                  "ID": "1",
+                  "measuredH": "48",
+                  "measuredW": "48",
+                  "properties": {
+                    "icon": {
+                      "ID": "compass",
+                      "size": "large"
+                    }
+                  },
+                  "typeID": "Icon",
+                  "x": "101",
+                  "y": "0",
+                  "zOrder": "1"
+                },
+                {
+                  "ID": "2",
+                  "measuredH": "48",
+                  "measuredW": "48",
+                  "properties": {
+                    "icon": {
+                      "ID": "map-signs",
+                      "size": "large"
+                    }
+                  },
+                  "typeID": "Icon",
+                  "x": "0",
+                  "y": "0",
+                  "zOrder": "2"
+                }
+              ]
+            }
+          },
+          "h": "48",
+          "measuredH": "48",
+          "measuredW": "149",
+          "typeID": "__group__",
+          "w": "149",
+          "x": "834",
+          "y": "1743",
+          "zOrder": "5"
+        },
+        {
+          "ID": "52",
+          "h": "228",
+          "measuredH": "80",
+          "measuredW": "275",
+          "typeID": "BlockOfText",
+          "w": "1337",
+          "x": "780",
+          "y": "1506",
+          "zOrder": "6"
+        },
+        {
+          "ID": "53",
+          "children": {
+            "controls": {
+              "control": [
+                {
+                  "ID": "0",
+                  "h": "518",
+                  "measuredH": "1182",
+                  "measuredW": "1773",
+                  "properties": {
+                    "src": {
+                      "Anchor": -1,
+                      "ID": "3A908668-B86B-1E16-46A2-C933ECE730F6"
+                    }
+                  },
+                  "typeID": "Image",
+                  "w": "1337",
+                  "x": "0",
+                  "y": "0",
+                  "zOrder": "0"
+                },
+                {
+                  "ID": "1",
+                  "children": {
+                    "controls": {
+                      "control": [
+                        {
+                          "ID": "0",
+                          "h": "106",
+                          "measuredH": "1182",
+                          "measuredW": "1773",
+                          "properties": {
+                            "src": {
+                              "Anchor": -1,
+                              "ID": "CE91156A-613C-A4B0-57DB-C934DADBF133"
+                            }
+                          },
+                          "typeID": "Image",
+                          "w": "122",
+                          "x": "48",
+                          "y": "0",
+                          "zOrder": "0"
+                        },
+                        {
+                          "ID": "1",
+                          "h": "106",
+                          "measuredH": "1182",
+                          "measuredW": "1773",
+                          "properties": {
+                            "src": {
+                              "Anchor": -1,
+                              "ID": "78F22FD8-B4CE-1F19-A62B-C9350627787A"
+                            }
+                          },
+                          "typeID": "Image",
+                          "w": "122",
+                          "x": "170",
+                          "y": "0",
+                          "zOrder": "1"
+                        },
+                        {
+                          "ID": "2",
+                          "h": "106",
+                          "measuredH": "1361",
+                          "measuredW": "1539",
+                          "properties": {
+                            "src": {
+                              "Anchor": -1,
+                              "ID": "CB6B1C46-5A89-3464-1582-C9352D8A42C9"
+                            }
+                          },
+                          "typeID": "Image",
+                          "w": "122",
+                          "x": "292",
+                          "y": "0",
+                          "zOrder": "2"
+                        },
+                        {
+                          "ID": "3",
+                          "h": "106",
+                          "measuredH": "600",
+                          "measuredW": "800",
+                          "properties": {
+                            "src": {
+                              "Anchor": -1,
+                              "ID": "D12C066E-1130-C484-B7DD-C93563938CAD"
+                            }
+                          },
+                          "typeID": "Image",
+                          "w": "122",
+                          "x": "414",
+                          "y": "0",
+                          "zOrder": "3"
+                        },
+                        {
+                          "ID": "4",
+                          "h": "106",
+                          "measuredH": "530",
+                          "measuredW": "800",
+                          "properties": {
+                            "src": {
+                              "Anchor": -1,
+                              "ID": "3B8450E3-E5C0-5E67-14EE-C9357C52CC14"
+                            }
+                          },
+                          "typeID": "Image",
+                          "w": "122",
+                          "x": "536",
+                          "y": "0",
+                          "zOrder": "4"
+                        },
+                        {
+                          "ID": "5",
+                          "h": "106",
+                          "measuredH": "529",
+                          "measuredW": "800",
+                          "properties": {
+                            "src": {
+                              "Anchor": -1,
+                              "ID": "89807AC7-B2CD-E502-0930-C932CE71F25E"
+                            }
+                          },
+                          "typeID": "Image",
+                          "w": "122",
+                          "x": "658",
+                          "y": "0",
+                          "zOrder": "5"
+                        },
+                        {
+                          "ID": "6",
+                          "h": "106",
+                          "measuredH": "955",
+                          "measuredW": "690",
+                          "properties": {
+                            "src": {
+                              "Anchor": -1,
+                              "ID": "FB10E1BF-959E-6A26-28A3-C935D17102AE"
+                            }
+                          },
+                          "typeID": "Image",
+                          "w": "122",
+                          "x": "780",
+                          "y": "0",
+                          "zOrder": "6"
+                        },
+                        {
+                          "ID": "7",
+                          "h": "106",
+                          "measuredH": "533",
+                          "measuredW": "800",
+                          "properties": {
+                            "src": {
+                              "Anchor": -1,
+                              "ID": "F739CC80-E9C5-AC3B-2900-C9360532F171"
+                            }
+                          },
+                          "typeID": "Image",
+                          "w": "122",
+                          "x": "902",
+                          "y": "0",
+                          "zOrder": "7"
+                        },
+                        {
+                          "ID": "8",
+                          "h": "106",
+                          "measuredH": "533",
+                          "measuredW": "800",
+                          "properties": {
+                            "src": {
+                              "Anchor": -1,
+                              "ID": "22382D49-1CF8-58C7-8C78-C936314FF9D7"
+                            }
+                          },
+                          "typeID": "Image",
+                          "w": "122",
+                          "x": "1024",
+                          "y": "0",
+                          "zOrder": "8"
+                        },
+                        {
+                          "ID": "9",
+                          "h": "106",
+                          "measuredH": "955",
+                          "measuredW": "690",
+                          "properties": {
+                            "src": {
+                              "Anchor": -1,
+                              "ID": "AA09D06D-48C6-FB91-9EFB-C9365EB7BFA3"
+                            }
+                          },
+                          "typeID": "Image",
+                          "w": "122",
+                          "x": "1146",
+                          "y": "0",
+                          "zOrder": "9"
+                        },
+                        {
+                          "ID": "10",
+                          "measuredH": "32",
+                          "measuredW": "32",
+                          "properties": {
+                            "icon": {
+                              "ID": "chevron-circle-left",
+                              "size": "medium"
+                            }
+                          },
+                          "typeID": "Icon",
+                          "x": "0",
+                          "y": "28",
+                          "zOrder": "10"
+                        },
+                        {
+                          "ID": "11",
+                          "measuredH": "32",
+                          "measuredW": "32",
+                          "properties": {
+                            "icon": {
+                              "ID": "chevron-circle-right",
+                              "size": "medium"
+                            }
+                          },
+                          "typeID": "Icon",
+                          "x": "1284",
+                          "y": "28",
+                          "zOrder": "11"
+                        }
+                      ]
+                    }
+                  },
+                  "h": "106",
+                  "measuredH": "106",
+                  "measuredW": "1316",
+                  "typeID": "__group__",
+                  "w": "1316",
+                  "x": "10",
+                  "y": "527",
+                  "zOrder": "1"
+                },
+                {
+                  "ID": "2",
+                  "children": {
+                    "controls": {
+                      "control": [
+                        {
+                          "ID": "0",
+                          "h": "78",
+                          "measuredH": "70",
+                          "measuredW": "100",
+                          "typeID": "Canvas",
+                          "w": "160",
+                          "x": "0",
+                          "y": "0",
+                          "zOrder": "0"
+                        },
+                        {
+                          "ID": "1",
+                          "measuredH": "21",
+                          "measuredW": "78",
+                          "properties": {
+                            "size": "18",
+                            "text": "Awesome"
+                          },
+                          "typeID": "SubTitle",
+                          "w": "87",
+                          "x": "7",
+                          "y": "21",
+                          "zOrder": "1"
+                        },
+                        {
+                          "ID": "2",
+                          "measuredH": "15",
+                          "measuredW": "60",
+                          "properties": {
+                            "italic": "true",
+                            "size": "12",
+                            "text": "58 reviews"
+                          },
+                          "typeID": "SubTitle",
+                          "w": "65",
+                          "x": "18",
+                          "y": "42",
+                          "zOrder": "2"
+                        },
+                        {
+                          "ID": "3",
+                          "h": "48",
+                          "measuredH": "48",
+                          "measuredW": "48",
+                          "properties": {
+                            "bold": "true",
+                            "borderStyle": "square",
+                            "color": "16767334",
+                            "labelPosition": "bottom",
+                            "size": "20",
+                            "text": "4.6"
+                          },
+                          "typeID": "CircleButton",
+                          "w": "49",
+                          "x": "100",
+                          "y": "15",
+                          "zOrder": "3"
+                        }
+                      ]
+                    }
+                  },
+                  "h": "78",
+                  "measuredH": "78",
+                  "measuredW": "160",
+                  "typeID": "__group__",
+                  "w": "160",
+                  "x": "1145",
+                  "y": "32",
+                  "zOrder": "2"
+                }
+              ]
+            }
+          },
+          "h": "633",
+          "measuredH": "633",
+          "measuredW": "1337",
+          "typeID": "__group__",
+          "w": "1337",
+          "x": "778",
+          "y": "819",
+          "zOrder": "7"
+        },
+        {
+          "ID": "54",
+          "measuredH": "23",
+          "measuredW": "78",
+          "properties": {
+            "bold": "true",
+            "size": "20",
+            "text": "Reviews"
+          },
+          "typeID": "SubTitle",
+          "w": "258",
+          "x": "788",
+          "y": "1844",
+          "zOrder": "8"
+        },
+        {
+          "ID": "55",
+          "children": {
+            "controls": {
+              "control": [
+                {
+                  "ID": "0",
+                  "measuredH": "64",
+                  "measuredW": "64",
+                  "properties": {
+                    "icon": {
+                      "ID": "user-circle-o",
+                      "size": "xlarge"
+                    }
+                  },
+                  "typeID": "Icon",
+                  "x": "0",
+                  "y": "12",
+                  "zOrder": "0"
+                },
+                {
+                  "ID": "1",
+                  "h": "25",
+                  "measuredH": "80",
+                  "measuredW": "275",
+                  "properties": {
+                    "bold": "true",
+                    "size": "16",
+                    "text": "_\"We loved the services\"_"
+                  },
+                  "typeID": "Paragraph",
+                  "w": "190",
+                  "x": "80",
+                  "y": "12",
+                  "zOrder": "1"
+                },
+                {
+                  "ID": "2",
+                  "h": "90",
+                  "measuredH": "80",
+                  "measuredW": "275",
+                  "typeID": "BlockOfText",
+                  "w": "1075",
+                  "x": "80",
+                  "y": "37",
+                  "zOrder": "2"
+                },
+                {
+                  "ID": "3",
+                  "h": "48",
+                  "measuredH": "48",
+                  "measuredW": "48",
+                  "properties": {
+                    "bold": "true",
+                    "color": "16767334",
+                    "size": "16",
+                    "text": "4.8"
+                  },
+                  "typeID": "CircleButton",
+                  "w": "48",
+                  "x": "1171",
+                  "y": "0",
+                  "zOrder": "3"
+                },
+                {
+                  "ID": "4",
+                  "h": "25",
+                  "measuredH": "80",
+                  "measuredW": "275",
+                  "properties": { "text": "_February 13, 2018_" },
+                  "typeID": "Paragraph",
+                  "w": "111",
+                  "x": "80",
+                  "y": "143",
+                  "zOrder": "4"
+                },
+                {
+                  "ID": "5",
+                  "h": "25",
+                  "measuredH": "80",
+                  "measuredW": "275",
+                  "properties": { "text": "James Bond" },
+                  "typeID": "Paragraph",
+                  "w": "76",
+                  "x": "80",
+                  "y": "127",
+                  "zOrder": "5"
+                }
+              ]
+            }
+          },
+          "h": "168",
+          "measuredH": "168",
+          "measuredW": "1219",
+          "typeID": "__group__",
+          "w": "1219",
+          "x": "808",
+          "y": "1913",
+          "zOrder": "9"
+        },
+        {
+          "ID": "56",
+          "children": {
+            "controls": {
+              "control": [
+                {
+                  "ID": "0",
+                  "measuredH": "64",
+                  "measuredW": "64",
+                  "properties": {
+                    "icon": {
+                      "ID": "user-circle-o",
+                      "size": "xlarge"
+                    }
+                  },
+                  "typeID": "Icon",
+                  "x": "0",
+                  "y": "12",
+                  "zOrder": "0"
+                },
+                {
+                  "ID": "1",
+                  "h": "25",
+                  "measuredH": "80",
+                  "measuredW": "275",
+                  "properties": {
+                    "bold": "true",
+                    "size": "16",
+                    "text": "_\"Nice staff and great location\"_"
+                  },
+                  "typeID": "Paragraph",
+                  "w": "190",
+                  "x": "80",
+                  "y": "12",
+                  "zOrder": "1"
+                },
+                {
+                  "ID": "2",
+                  "h": "90",
+                  "measuredH": "80",
+                  "measuredW": "275",
+                  "typeID": "BlockOfText",
+                  "w": "1075",
+                  "x": "80",
+                  "y": "37",
+                  "zOrder": "2"
+                },
+                {
+                  "ID": "3",
+                  "h": "48",
+                  "measuredH": "48",
+                  "measuredW": "48",
+                  "properties": {
+                    "bold": "true",
+                    "color": "16767334",
+                    "size": "16",
+                    "text": "4.0"
+                  },
+                  "typeID": "CircleButton",
+                  "w": "48",
+                  "x": "1171",
+                  "y": "0",
+                  "zOrder": "3"
+                },
+                {
+                  "ID": "4",
+                  "h": "25",
+                  "measuredH": "80",
+                  "measuredW": "275",
+                  "properties": { "text": "_January 20, 2018_" },
+                  "typeID": "Paragraph",
+                  "w": "128",
+                  "x": "80",
+                  "y": "143",
+                  "zOrder": "4"
+                },
+                {
+                  "ID": "5",
+                  "h": "25",
+                  "measuredH": "80",
+                  "measuredW": "275",
+                  "properties": { "text": "Anakin Skywalker" },
+                  "typeID": "Paragraph",
+                  "w": "105",
+                  "x": "80",
+                  "y": "127",
+                  "zOrder": "5"
+                }
+              ]
+            }
+          },
+          "h": "168",
+          "measuredH": "168",
+          "measuredW": "1219",
+          "typeID": "__group__",
+          "w": "1219",
+          "x": "808",
+          "y": "2087",
+          "zOrder": "10"
+        },
+        {
+          "ID": "57",
+          "children": {
+            "controls": {
+              "control": [
+                {
+                  "ID": "0",
+                  "measuredH": "64",
+                  "measuredW": "64",
+                  "properties": {
+                    "icon": {
+                      "ID": "user-circle-o",
+                      "size": "xlarge"
+                    }
+                  },
+                  "typeID": "Icon",
+                  "x": "0",
+                  "y": "12",
+                  "zOrder": "0"
+                },
+                {
+                  "ID": "1",
+                  "h": "25",
+                  "measuredH": "80",
+                  "measuredW": "275",
+                  "properties": {
+                    "bold": "true",
+                    "size": "16",
+                    "text": "_\"Keep going\"_"
+                  },
+                  "typeID": "Paragraph",
+                  "w": "190",
+                  "x": "80",
+                  "y": "12",
+                  "zOrder": "1"
+                },
+                {
+                  "ID": "2",
+                  "h": "90",
+                  "measuredH": "80",
+                  "measuredW": "275",
+                  "typeID": "BlockOfText",
+                  "w": "1075",
+                  "x": "80",
+                  "y": "37",
+                  "zOrder": "2"
+                },
+                {
+                  "ID": "3",
+                  "h": "48",
+                  "measuredH": "48",
+                  "measuredW": "48",
+                  "properties": {
+                    "bold": "true",
+                    "color": "16767334",
+                    "size": "16",
+                    "text": "5.0"
+                  },
+                  "typeID": "CircleButton",
+                  "w": "48",
+                  "x": "1171",
+                  "y": "0",
+                  "zOrder": "3"
+                },
+                {
+                  "ID": "4",
+                  "h": "25",
+                  "measuredH": "80",
+                  "measuredW": "275",
+                  "properties": { "text": "_January 13, 2018_" },
+                  "typeID": "Paragraph",
+                  "w": "111",
+                  "x": "80",
+                  "y": "143",
+                  "zOrder": "4"
+                },
+                {
+                  "ID": "5",
+                  "h": "25",
+                  "measuredH": "80",
+                  "measuredW": "275",
+                  "properties": { "text": "Bruce Wayne" },
+                  "typeID": "Paragraph",
+                  "w": "82",
+                  "x": "80",
+                  "y": "127",
+                  "zOrder": "5"
+                }
+              ]
+            }
+          },
+          "h": "168",
+          "measuredH": "168",
+          "measuredW": "1219",
+          "typeID": "__group__",
+          "w": "1219",
+          "x": "808",
+          "y": "2255",
+          "zOrder": "11"
+        },
+        {
+          "ID": "58",
+          "measuredH": "23",
+          "measuredW": "86",
+          "properties": {
+            "size": "15",
+            "text": "View on Map"
+          },
+          "typeID": "Link",
+          "x": "2015",
+          "y": "780",
+          "zOrder": "12"
+        },
+        {
+          "ID": "60",
+          "children": {
+            "controls": {
+              "control": [
+                {
+                  "ID": "0",
+                  "h": "28",
+                  "measuredH": "27",
+                  "measuredW": "80",
+                  "properties": {
+                    "icon": {
+                      "ID": "globe",
+                      "size": "xsmall"
+                    },
+                    "size": "12",
+                    "text": "EN/ES"
+                  },
+                  "typeID": "Button",
+                  "w": "70",
+                  "x": "411",
+                  "y": "0",
+                  "zOrder": "0"
+                },
+                {
+                  "ID": "1",
+                  "children": {
+                    "controls": {
+                      "control": [
+                        {
+                          "ID": "0",
+                          "measuredH": "32",
+                          "measuredW": "32",
+                          "properties": {
+                            "borderStyle": "none",
+                            "icon": {
+                              "ID": "facebook-square",
+                              "size": "medium"
+                            }
+                          },
+                          "typeID": "Icon",
+                          "x": "151",
+                          "y": "0",
+                          "zOrder": "0"
+                        },
+                        {
+                          "ID": "1",
+                          "measuredH": "32",
+                          "measuredW": "32",
+                          "properties": {
+                            "icon": {
+                              "ID": "twitter-square",
+                              "size": "medium"
+                            }
+                          },
+                          "typeID": "Icon",
+                          "x": "246",
+                          "y": "0",
+                          "zOrder": "1"
+                        },
+                        {
+                          "ID": "2",
+                          "measuredH": "32",
+                          "measuredW": "32",
+                          "properties": {
+                            "icon": {
+                              "ID": "instagram",
+                              "size": "medium"
+                            }
+                          },
+                          "typeID": "Icon",
+                          "x": "199",
+                          "y": "0",
+                          "zOrder": "2"
+                        },
+                        {
+                          "ID": "3",
+                          "h": "20",
+                          "measuredH": "80",
+                          "measuredW": "275",
+                          "properties": {
+                            "size": "14",
+                            "text": "+(535) 245 9872"
+                          },
+                          "typeID": "Paragraph",
+                          "w": "121",
+                          "x": "0",
+                          "y": "7",
+                          "zOrder": "3"
+                        }
+                      ]
+                    }
+                  },
+                  "h": "32",
+                  "measuredH": "32",
+                  "measuredW": "278",
+                  "typeID": "__group__",
+                  "w": "278",
+                  "x": "116",
+                  "y": "0",
+                  "zOrder": "1"
+                },
+                {
+                  "ID": "2",
+                  "measuredH": "64",
+                  "measuredW": "74",
+                  "properties": {
+                    "icon": {
+                      "ID": "paper-plane",
+                      "size": "large"
+                    },
+                    "size": "14",
+                    "text": "CubAdvisor"
+                  },
+                  "typeID": "IconLabel",
+                  "w": "75",
+                  "x": "0",
+                  "y": "0",
+                  "zOrder": "2"
+                },
+                {
+                  "ID": "3",
+                  "h": "52",
+                  "measuredH": "29",
+                  "measuredW": "628",
+                  "properties": {
+                    "hrefs": {
+                      "href": [
+                        { "ID": "4E48CA6A-C6AF-921B-635B-84191A736F3C" },
+                        {},
+                        {},
+                        { "ID": "15C32B21-46BB-6846-4D78-71C13C8E919F" },
+                        {},
+                        {},
+                        { "ID": "6AA37D65-5EDE-4E08-87A3-A1C833AA65E8" },
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {}
+                      ]
+                    },
+                    "selectedIndex": "3",
+                    "size": "18",
+                    "text": "HOME,,, PACKAGES,,,  BLOG,,, CONTACT,,, ABOUT US"
+                  },
+                  "typeID": "MenuBar",
+                  "w": "742",
+                  "x": "575",
+                  "y": "29",
+                  "zOrder": "3"
+                },
+                {
+                  "ID": "4",
+                  "measuredH": "79",
+                  "measuredW": "71",
+                  "properties": {
+                    "href": { "ID": "032E3534-5E79-8268-9C3B-88C98C62182C" },
+                    "icon": {
+                      "ID": "user-circle",
+                      "size": "medium"
+                    },
+                    "size": "12",
+                    "state": "focused",
+                    "text": " \nsettings\nsign out\n \n ",
+                    "value": "0",
+                    "verticalScrollbar": "false"
+                  },
+                  "typeID": "ComboBox",
+                  "w": "100",
+                  "x": "1332",
+                  "y": "41",
+                  "zOrder": "4"
+                }
+              ]
+            }
+          },
+          "h": "120",
+          "measuredH": "120",
+          "measuredW": "1432",
+          "typeID": "__group__",
+          "w": "1432",
+          "x": "745",
+          "y": "106",
+          "zOrder": "13"
+        },
+        {
+          "ID": "61",
+          "children": {
+            "controls": {
+              "control": [
+                {
+                  "ID": "0",
+                  "h": "248",
+                  "measuredH": "70",
+                  "measuredW": "100",
+                  "properties": {
+                    "backgroundAlpha": "0.75",
+                    "borderStyle": "none",
+                    "color": "0"
+                  },
+                  "typeID": "Canvas",
+                  "w": "1485",
+                  "x": "0",
+                  "y": "0",
+                  "zOrder": "0"
+                },
+                {
+                  "ID": "1",
+                  "h": "148",
+                  "measuredH": "80",
+                  "measuredW": "275",
+                  "properties": {
+                    "color": "16777215",
+                    "size": "16",
+                    "text": "CubAdvisor\n \nFar far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+                  },
+                  "typeID": "Paragraph",
+                  "w": "247",
+                  "x": "125",
+                  "y": "21",
+                  "zOrder": "1"
+                },
+                {
+                  "ID": "2",
+                  "children": {
+                    "controls": {
+                      "control": [
+                        {
+                          "ID": "0",
+                          "h": "45",
+                          "measuredH": "32",
+                          "measuredW": "32",
+                          "properties": {
+                            "color": "10066329",
+                            "text": ""
+                          },
+                          "typeID": "RoundButton",
+                          "w": "48",
+                          "x": "0",
+                          "y": "0",
+                          "zOrder": "0"
+                        },
+                        {
+                          "ID": "1",
+                          "measuredH": "32",
+                          "measuredW": "32",
+                          "properties": {
+                            "color": "16777215",
+                            "icon": {
+                              "ID": "twitter",
+                              "size": "medium"
+                            }
+                          },
+                          "typeID": "Icon",
+                          "x": "9",
+                          "y": "7",
+                          "zOrder": "1"
+                        }
+                      ]
+                    }
+                  },
+                  "h": "45",
+                  "measuredH": "45",
+                  "measuredW": "48",
+                  "typeID": "__group__",
+                  "w": "48",
+                  "x": "125",
+                  "y": "153",
+                  "zOrder": "2"
+                },
+                {
+                  "ID": "3",
+                  "children": {
+                    "controls": {
+                      "control": [
+                        {
+                          "ID": "0",
+                          "h": "45",
+                          "measuredH": "32",
+                          "measuredW": "32",
+                          "properties": {
+                            "color": "10066329",
+                            "text": ""
+                          },
+                          "typeID": "RoundButton",
+                          "w": "48",
+                          "x": "0",
+                          "y": "0",
+                          "zOrder": "0"
+                        },
+                        {
+                          "ID": "1",
+                          "measuredH": "24",
+                          "measuredW": "24",
+                          "properties": {
+                            "color": "15658734",
+                            "icon": {
+                              "ID": "facebook",
+                              "size": "small"
+                            }
+                          },
+                          "typeID": "Icon",
+                          "x": "12",
+                          "y": "10",
+                          "zOrder": "1"
+                        }
+                      ]
+                    }
+                  },
+                  "h": "45",
+                  "measuredH": "45",
+                  "measuredW": "48",
+                  "typeID": "__group__",
+                  "w": "48",
+                  "x": "199",
+                  "y": "153",
+                  "zOrder": "3"
+                },
+                {
+                  "ID": "4",
+                  "children": {
+                    "controls": {
+                      "control": [
+                        {
+                          "ID": "0",
+                          "h": "45",
+                          "measuredH": "32",
+                          "measuredW": "32",
+                          "properties": {
+                            "color": "10066329",
+                            "text": ""
+                          },
+                          "typeID": "RoundButton",
+                          "w": "48",
+                          "x": "0",
+                          "y": "0",
+                          "zOrder": "0"
+                        },
+                        {
+                          "ID": "1",
+                          "measuredH": "24",
+                          "measuredW": "24",
+                          "properties": {
+                            "color": "16777215",
+                            "icon": {
+                              "ID": "google-plus",
+                              "size": "small"
+                            }
+                          },
+                          "typeID": "Icon",
+                          "x": "12",
+                          "y": "10",
+                          "zOrder": "1"
+                        }
+                      ]
+                    }
+                  },
+                  "h": "45",
+                  "measuredH": "45",
+                  "measuredW": "48",
+                  "typeID": "__group__",
+                  "w": "48",
+                  "x": "272",
+                  "y": "153",
+                  "zOrder": "4"
+                },
+                {
+                  "ID": "5",
+                  "children": {
+                    "controls": {
+                      "control": [
+                        {
+                          "ID": "0",
+                          "measuredH": "48",
+                          "measuredW": "48",
+                          "properties": {
+                            "color": "16777215",
+                            "icon": {
+                              "ID": "phone-square",
+                              "size": "large"
+                            }
+                          },
+                          "typeID": "Icon",
+                          "x": "94",
+                          "y": "0",
+                          "zOrder": "0"
+                        },
+                        {
+                          "ID": "1",
+                          "h": "148",
+                          "measuredH": "80",
+                          "measuredW": "275",
+                          "properties": {
+                            "align": "center",
+                            "color": "16777215",
+                            "size": "14",
+                            "text": "GIVE US A CALL\n \nOffice Landline: +44 5567 32 664 567 \n \nMobile: +44 5567 89 3322 2234 "
+                          },
+                          "typeID": "Paragraph",
+                          "w": "253",
+                          "x": "0",
+                          "y": "64",
+                          "zOrder": "1"
+                        }
+                      ]
+                    }
+                  },
+                  "h": "212",
+                  "measuredH": "212",
+                  "measuredW": "253",
+                  "typeID": "__group__",
+                  "w": "253",
+                  "x": "549",
+                  "y": "25",
+                  "zOrder": "5"
+                },
+                {
+                  "ID": "6",
+                  "children": {
+                    "controls": {
+                      "control": [
+                        {
+                          "ID": "0",
+                          "measuredH": "48",
+                          "measuredW": "48",
+                          "properties": {
+                            "color": "16777215",
+                            "icon": {
+                              "ID": "home",
+                              "size": "large"
+                            }
+                          },
+                          "typeID": "Icon",
+                          "x": "70",
+                          "y": "0",
+                          "zOrder": "0"
+                        },
+                        {
+                          "ID": "1",
+                          "h": "148",
+                          "measuredH": "80",
+                          "measuredW": "275",
+                          "properties": {
+                            "align": "center",
+                            "color": "16777215",
+                            "size": "14",
+                            "text": "COME & DROP BY\n \n4124 Barnes Street, Sanford, FL 32771"
+                          },
+                          "typeID": "Paragraph",
+                          "w": "205",
+                          "x": "0",
+                          "y": "64",
+                          "zOrder": "1"
+                        }
+                      ]
+                    }
+                  },
+                  "h": "212",
+                  "measuredH": "212",
+                  "measuredW": "205",
+                  "typeID": "__group__",
+                  "w": "205",
+                  "x": "860",
+                  "y": "22",
+                  "zOrder": "6"
+                },
+                {
+                  "ID": "7",
+                  "children": {
+                    "controls": {
+                      "control": [
+                        {
+                          "ID": "0",
+                          "measuredH": "48",
+                          "measuredW": "48",
+                          "properties": {
+                            "color": "16777215",
+                            "icon": {
+                              "ID": "globe",
+                              "size": "large"
+                            }
+                          },
+                          "typeID": "Icon",
+                          "x": "78",
+                          "y": "0",
+                          "zOrder": "0"
+                        },
+                        {
+                          "ID": "1",
+                          "h": "148",
+                          "measuredH": "80",
+                          "measuredW": "275",
+                          "properties": {
+                            "align": "center",
+                            "color": "16777215",
+                            "size": "14",
+                            "text": "SEND US A MESSAGE\n \nyouremail@gmail.com\n \nOffice@yourbusinessname.com\n "
+                          },
+                          "typeID": "Paragraph",
+                          "w": "205",
+                          "x": "0",
+                          "y": "58",
+                          "zOrder": "1"
+                        }
+                      ]
+                    }
+                  },
+                  "h": "206",
+                  "measuredH": "206",
+                  "measuredW": "205",
+                  "typeID": "__group__",
+                  "w": "205",
+                  "x": "1093",
+                  "y": "28",
+                  "zOrder": "7"
+                },
+                {
+                  "ID": "8",
+                  "h": "28",
+                  "measuredH": "80",
+                  "measuredW": "275",
+                  "properties": {
+                    "color": "16777215",
+                    "size": "14",
+                    "text": "Copyright ©2018 All rights reserved "
+                  },
+                  "typeID": "Paragraph",
+                  "w": "282",
+                  "x": "639",
+                  "y": "220",
+                  "zOrder": "8"
+                }
+              ]
+            }
+          },
+          "h": "248",
+          "measuredH": "248",
+          "measuredW": "1485",
+          "typeID": "__group__",
+          "w": "1485",
+          "x": "719",
+          "y": "2450",
+          "zOrder": "14"
+        },
+        {
+          "ID": "62",
+          "h": "59",
+          "measuredH": "27",
+          "measuredW": "126",
+          "properties": {
+            "color": "6989903",
+            "size": "16",
+            "text": "BOOK NOW ..."
+          },
+          "typeID": "Button",
+          "w": "142",
+          "x": "1901",
+          "y": "1738",
+          "zOrder": "15"
+        }
+      ]
+    },
+    "measuredH": "2733",
+    "measuredW": "2240",
+    "mockupH": "2721",
+    "mockupW": "1558",
+    "version": "1.0"
+  }
+}

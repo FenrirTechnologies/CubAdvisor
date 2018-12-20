@@ -364,6 +364,9 @@
                     "measuredH": "32",
                     "measuredW": "91",
                     "properties": {
+                        "href": {
+                            "ID": "4E48CA6A-C6AF-921B-635B-84191A736F3C"
+                        },
                         "icon": {
                             "ID": "floppy-o",
                             "size": "medium"
@@ -373,7 +376,7 @@
                     },
                     "typeID": "Button",
                     "w": "117",
-                    "x": "907",
+                    "x": "880",
                     "y": "1274",
                     "zOrder": "25"
                 },
@@ -422,6 +425,28 @@
                     "x": "1066",
                     "y": "1182",
                     "zOrder": "28"
+                },
+                {
+                    "ID": "77",
+                    "h": "49",
+                    "measuredH": "32",
+                    "measuredW": "104",
+                    "properties": {
+                        "href": {
+                            "ID": "4E48CA6A-C6AF-921B-635B-84191A736F3C"
+                        },
+                        "icon": {
+                            "ID": "times",
+                            "size": "medium"
+                        },
+                        "size": "14",
+                        "text": "Cancel"
+                    },
+                    "typeID": "Button",
+                    "w": "117",
+                    "x": "998",
+                    "y": "1274",
+                    "zOrder": "29"
                 }
             ]
         },

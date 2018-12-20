@@ -223,6 +223,29 @@
                                                                                                     "measuredH": "29",
                                                                                                     "measuredW": "628",
                                                                                                     "properties": {
+                                                                                                        "hrefs": {
+                                                                                                            "href": [
+                                                                                                                {
+                                                                                                                    "ID": "4E48CA6A-C6AF-921B-635B-84191A736F3C"
+                                                                                                                },
+                                                                                                                {},
+                                                                                                                {},
+                                                                                                                {
+                                                                                                                    "ID": "15C32B21-46BB-6846-4D78-71C13C8E919F"
+                                                                                                                },
+                                                                                                                {},
+                                                                                                                {},
+                                                                                                                {
+                                                                                                                    "ID": "6AA37D65-5EDE-4E08-87A3-A1C833AA65E8"
+                                                                                                                },
+                                                                                                                {},
+                                                                                                                {},
+                                                                                                                {},
+                                                                                                                {},
+                                                                                                                {},
+                                                                                                                {}
+                                                                                                            ]
+                                                                                                        },
                                                                                                         "selectedIndex": "6",
                                                                                                         "size": "18",
                                                                                                         "text": "HOME,,, PACKAGES,,,  BLOG,,, CONTACT,,, ABOUT US"
@@ -286,6 +309,9 @@
                                     "measuredH": "79",
                                     "measuredW": "71",
                                     "properties": {
+                                        "href": {
+                                            "ID": "032E3534-5E79-8268-9C3B-88C98C62182C"
+                                        },
                                         "icon": {
                                             "ID": "user-circle",
                                             "size": "medium"
@@ -305,11 +331,11 @@
                             ]
                         }
                     },
-                    "h": "80",
+                    "h": "111",
                     "measuredH": "111",
                     "measuredW": "1435",
                     "typeID": "__group__",
-                    "w": "1316",
+                    "w": "1435",
                     "x": "47",
                     "y": "216",
                     "zOrder": "2"
